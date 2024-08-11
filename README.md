@@ -15,7 +15,7 @@
 
 ### 使用说明
 
-1. 下载**quick_update_res.exe **, 可通过仓库界面右上方的download zip按钮下载.
+1. 下载**quick_update_res.exe**, 可通过界面右侧的**Release**选项下载.
 2. 将下载好的程序放到MAA的程序根目录下 (即MAA.exe所在的目录)
 3. 你已经完成了. 每次需要更新资源时只需运行quick_update_res程序即可.
 4. 可以给程序创建快捷方式, 方便下次使用.
