@@ -1,6 +1,6 @@
 # 一键更新 MAA 资源包
 
-本程序是明日方舟代理程序**[MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)**的附属工具.
+本程序是明日方舟代理程序[MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)的附属工具.
 
 自2024.8月开始MAA不再提供资源包的自动更新了, 因此我写了一个自动更新资源的批处理脚本, 免去了每次需要重新从仓库拷贝的麻烦.
 
