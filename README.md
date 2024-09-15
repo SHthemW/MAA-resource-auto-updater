@@ -24,7 +24,7 @@
 
 ### 常见问题
 
-1. fatal: unable to access 'https://github.com/MaaAssistantArknights/MaaResource.git/': Failed to connect to github.com port 443 after 21071 ms: Could not connect to server
+1. ``fatal: unable to access 'https://github.com/MaaAssistantArknights/MaaResource.git/': Failed to connect to github.com port 443 after 21071 ms: Could not connect to server``  
    网络问题，MAA的资源文件存储在Github上，访问需要梯子，请自行检查
-2. Unknown command 'git' ... 或其它类似的文本
+2. ``Unknown command 'git' ...`` 或其它类似的文本  
    电脑没装Git客户端[Git (git-scm.com)](https://git-scm.com/)
